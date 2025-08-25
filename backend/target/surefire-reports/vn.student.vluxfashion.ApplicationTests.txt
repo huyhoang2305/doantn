@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vn.student.shoes.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.66 s -- in vn.student.shoes.ApplicationTests
